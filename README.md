@@ -9,7 +9,7 @@ I am a self-motivated Full-stack Developer with strong problem-solving and analy
 * 🌍  I'm based in Cameroun
 * ✉️  You can contact me at [maebrie2017@gmail.com](mailto:maebrie2017@gmail.com)
 * 🚀  I'm currently working on [CodingPoets](http://github.com/AwaMelvine/codingpoets-backed)
-* 🧠  I'm learning Docker, Kubernete, CI/CD, Web security
+* 🧠  I'm currently learning Docker, Kubernete, CI/CD, Web security
 * 🤝  I'm open to collaborating on any Project related to Front-end React.js and Backend Node.js including the above mentionned
 * ⚡  I am a hard worker with a constant need to learn and improve.
 
@@ -44,7 +44,19 @@ src="https://img.shields.io/twitter/follow/EvaristeAvom?logo=twitter&style=for-t
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/frckbrice/pockerplay-fe" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=frckbrice&repo=pockerplay-fe&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/frckbrice/pockerplay-backend" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=frckbrice&repo=pockerplay-backend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+  <a href="https://github.com/frckbrice/pockerplay-fe" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=frckbrice&repo=pockerplay-fe&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/frckbrice/repairAPI" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=frckbrice&repo=pockerplay-fe&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/frckbrice/TMS-app-frontend" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=frckbrice&repo=pockerplay-backend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/frckbrice/pockerplay-backend" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=frckbrice&repo=pockerplay-backend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
