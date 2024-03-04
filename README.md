@@ -59,6 +59,15 @@ src="https://img.shields.io/twitter/follow/EvaristeAvom?logo=twitter&style=for-t
 
 <div width="100%" align="center"><a href="https://github.com/frckbrice/HotelMgt" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=frckbrice&repo=HotelMgt&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/frckbrice/whatsapp-clone-nestjs-backend" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=frckbrice&repo=whatsapp-clone-nestjs-backend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
+<div width="100%" align="center">
+  <p> A game for two players in real time. The goal of the game is to strengthen ties while having fun. </p>
+  <a href="https://github.com/frckbrice/repairAPI" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=frckbrice&repo=pockerplay-fe&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/frckbrice/TMS-app-frontend" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=frckbrice&repo=pockerplay-backend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a></div>
+
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
