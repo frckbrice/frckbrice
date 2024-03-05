@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mbang Avom Evariste Brice
 =================================================================================================================================================
 
-Full-Stack Web Developer  | available for hire.
+Full-Stack Web Developer  | (available for hire).
 ------------------------
 
 I am a self-motivated Full-stack Developer with strong problem-solving and analytical skills. I am honest, hard worker with positive attitude toward my career and life. Being punctual and sincere, I can finish the work given to me on time and try to fullfill all the needs of the company from me.
@@ -56,8 +56,14 @@ src="https://img.shields.io/twitter/follow/EvaristeAvom?logo=twitter&style=for-t
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/frckbrice/HotelMgt" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=frckbrice&repo=HotelMgt&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/frckbrice/whatsapp-clone-nestjs-backend" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=frckbrice&repo=whatsapp-clone-nestjs-backend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-<br /><br />
+<div width="100%" align="center"><a href="https://github.com/frckbrice/HotelMgt" align="left">
+  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=frckbrice&repo=HotelMgt&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+</a>
+  <a href="https://github.com/frckbrice/whatsapp-clone-nestjs-backend" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=frckbrice&repo=whatsapp-clone-nestjs-backend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+</div>
+
 <div width="100%" align="center">
   <a href="https://github.com/frckbrice/repairAPI" align="left">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=frckbrice&repo=pockerplay-fe&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
@@ -67,10 +73,18 @@ src="https://img.shields.io/twitter/follow/EvaristeAvom?logo=twitter&style=for-t
     <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=frckbrice&repo=pockerplay-backend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a></div>
 
+<div width="100%" align="center">
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/frckbrice"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
+<li style="display: inline-block; margin-right: 0.25rem;">
+  <a href="https://www.buymeacoffee.com/frckbrice">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
+  </a>
+</li>
 </ul>
+  
+</div>
+  
+
