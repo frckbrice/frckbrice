@@ -53,7 +53,8 @@ src="https://img.shields.io/twitter/follow/EvaristeAvom?logo=twitter&style=for-t
   </a>
 </div>
 <br /><br />
-<div width="100%" align="center"><a href="https://github.com/frckbrice/HotelMgt" align="left">
+<div width="100%" align="center">
+  <a href="https://github.com/frckbrice/HotelMgt" align="left">
   <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=frckbrice&repo=HotelMgt&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
 </a>
   <a href="https://github.com/frckbrice/whatsapp-clone-nestjs-backend" align="right">
@@ -63,13 +64,7 @@ src="https://img.shields.io/twitter/follow/EvaristeAvom?logo=twitter&style=for-t
   br /><br /><br /><br />
 
 
-### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/frckbrice"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
 
   
 
