@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mbang Avom Evariste Brice
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is  Avom Brice
 =================================================================================================================================================
 
-Full-Stack Web Developer  | (available for hire).
+Full-Stack Web Developer specialized in TypeScript/JavaScript | (available for hire).
 ------------------------
 
 I am a self-motivated Full-stack Developer with strong problem-solving and analytical skills. I am honest, hard worker with positive attitude toward my career and life. Being punctual and sincere, I can finish the work given to me on time and try to fullfill all the needs of the company from me.
