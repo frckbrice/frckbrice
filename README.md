@@ -9,7 +9,7 @@ I am a self-motivated Full-stack Developer with strong problem-solving and analy
 * 🌍  I'm based in Cameroun
 * ✉️  You can contact me at [maebrie2017@gmail.com](mailto:maebrie2017@gmail.com)
 * 🚀  I'm currently working on [CodingPoets](http://github.com/AwaMelvine/codingpoets-backed)
-* 🧠  I'm currently learning Docker, Kubernete, CI/CD, Web security
+* 🧠  I'm currently enforcing Web security
 * 🤝  I'm open to collaborating on any Project related to Front-end React.js and Backend Node.js including the above mentionned
 * ⚡  I am a hard worker with a constant need to learn and improve.
 
