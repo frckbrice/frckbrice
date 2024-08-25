@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Web Developer | TypeScript & Node.js
 -----------------------------------------------
 
-Passionate full-stack web developer specializing in TypeScript and Node.js. Building scalable, efficient, and user-friendly applications.
+Passionate full-stack web developer specialized in TypeScript and Node.js. Building scalable, efficient, and user-friendly applications.
 
 * 🌍  I'm based in Cameroon
 * ✉️  You can contact me at [maebrie2017@gmail.com](mailto:maebrie2017@gmail.com)
