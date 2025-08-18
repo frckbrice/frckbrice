@@ -8,10 +8,10 @@ Passionate full-stack web developer specialized in TypeScript and Node.js. Build
 
 * 🌍  I'm based in Cameroon
 * ✉️  You can contact me at [maebrie2017@gmail.com](mailto:maebrie2017@gmail.com)
-* 🚀  I'm currently working on [Microservice applications and cloud computing.](http://app.rbclean.xyz)
-* 🧠  I'm learning System Design and design patterns.
-* 🤝  I'm open to collaborating on Node.js and JavaScript | TypeScript applications
-* ⚡  Microservices architectures
+* 🚀  I'm currently working on An AI-powered Teacher assistant app. 
+* 🧠  I'm learning Cloud computing on Google skill boost.
+* 🤝  I'm open to collaborating on Node.js and cloud applications.
+* ⚡  Monolithic or Microservices architectures
 
 ### Skills
 
