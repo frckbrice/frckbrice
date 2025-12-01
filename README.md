@@ -1,17 +1,17 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Franck Brice Avom
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Avom Brice
 =========================================================================================================================================
 
-Full-Stack Web Developer | TypeScript & Node.js
------------------------------------------------
+Full-Stack Engineer: TypeScript & React,js | Next.js | Node.js | Cloud | AI automation
+--------------------------------------------------------------------------------------
 
-Passionate full-stack web developer specialized in TypeScript and Node.js. Building scalable, efficient, and user-friendly applications.
+Passionate full-stack web Engineer Building scalable, efficient, and user-friendly applications.
 
-* 🌍  I'm based in Cameroon
-* ✉️  You can contact me at [maebrie2017@gmail.com](mailto:maebrie2017@gmail.com)
-* 🚀  I'm currently working on An AI-powered Teacher assistant app. 
-* 🧠  I'm learning Cloud computing on Google skill boost.
-* 🤝  I'm open to collaborating on Node.js and cloud applications.
-* ⚡  Monolithic or Microservices architectures
+*   I'm based in Cameroon
+*   You can contact me at [maebrie2017@gmail.com](mailto:maebrie2017@gmail.com)
+*   I'm currently working on An AI-powered Teacher assistant app. 
+*   I'm preparing a certifications as professional cloud developer, Cloud api developer.
+*   I'm open to collaborating on Node.js|TypeScript|React|NextJS and cloud applications.
+* ⚡ Microservices architectures
 
 ### Skills
 
