@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Avom Brice
 =========================================================================================================================================
 
-Full-Stack Engineer: TypeScript & React,js | Next.js | Node.js | Cloud | AI automation
---------------------------------------------------------------------------------------
+Full-Stack Engineer (Web & mobile): TypeScript & React,js | Next.js | Node.js | Cloud | AI automation
+-----------------------------------------------------------------------------------------------------
 
 Passionate full-stack web Engineer Building scalable, efficient, and user-friendly applications.
 
