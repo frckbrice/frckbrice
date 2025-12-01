@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Avom Brice
 =========================================================================================================================================
 
-Full-Stack Engineer (Web & mobile): TypeScript & React,js | Next.js | Node.js | Cloud | AI automation
+Full-Stack Engineer (Web & mobile): TypeScript & React.js | Next.js | Node.js | Cloud | AI automation
 -----------------------------------------------------------------------------------------------------
 
 Passionate full-stack web Engineer Building scalable, efficient, and user-friendly applications.
 
 *   I'm based in Cameroon
 *   You can contact me at [maebrie2017@gmail.com](mailto:maebrie2017@gmail.com)
-*   I'm currently working on An AI-powered Teacher assistant app. 
+*   I'm currently working on AI automation and cloud GCP apps. 
 *   I'm preparing a certifications as professional cloud developer, Cloud api developer.
 *   I'm open to collaborating on Node.js|TypeScript|React|NextJS and cloud applications.
 * ⚡ Microservices architectures
