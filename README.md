@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Engineer (Web & mobile): TypeScript & React.js | Next.js | Node.js | Cloud | AI automation
 -----------------------------------------------------------------------------------------------------
 
-Passionate full-stack web Engineer Building scalable, efficient, and user-friendly applications.
+Passionate in software Engineering: Building scalable, available, reliable, cloud native applications: 
 
 *   I'm based in Cameroon
 *   You can contact me at [maebrie2017@gmail.com](mailto:maebrie2017@gmail.com)
